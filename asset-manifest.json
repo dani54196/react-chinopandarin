@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-chinopandarin/static/css/main.a7c347b5.chunk.css",
-    "main.js": "/react-chinopandarin/static/js/main.e1f94e2c.chunk.js",
-    "main.js.map": "/react-chinopandarin/static/js/main.e1f94e2c.chunk.js.map",
-    "runtime-main.js": "/react-chinopandarin/static/js/runtime-main.d8ff9572.js",
-    "runtime-main.js.map": "/react-chinopandarin/static/js/runtime-main.d8ff9572.js.map",
+    "main.css": "/react-chinopandarin/static/css/main.c056c7ea.chunk.css",
+    "main.js": "/react-chinopandarin/static/js/main.2448ffb1.chunk.js",
+    "main.js.map": "/react-chinopandarin/static/js/main.2448ffb1.chunk.js.map",
+    "runtime-main.js": "/react-chinopandarin/static/js/runtime-main.d398eeca.js",
+    "runtime-main.js.map": "/react-chinopandarin/static/js/runtime-main.d398eeca.js.map",
     "static/css/2.1a02f21c.chunk.css": "/react-chinopandarin/static/css/2.1a02f21c.chunk.css",
-    "static/js/2.3b2547cb.chunk.js": "/react-chinopandarin/static/js/2.3b2547cb.chunk.js",
-    "static/js/2.3b2547cb.chunk.js.map": "/react-chinopandarin/static/js/2.3b2547cb.chunk.js.map",
-    "static/js/3.683b5eda.chunk.js": "/react-chinopandarin/static/js/3.683b5eda.chunk.js",
-    "static/js/3.683b5eda.chunk.js.map": "/react-chinopandarin/static/js/3.683b5eda.chunk.js.map",
+    "static/js/2.5610be53.chunk.js": "/react-chinopandarin/static/js/2.5610be53.chunk.js",
+    "static/js/2.5610be53.chunk.js.map": "/react-chinopandarin/static/js/2.5610be53.chunk.js.map",
+    "static/js/3.6b854f19.chunk.js": "/react-chinopandarin/static/js/3.6b854f19.chunk.js",
+    "static/js/3.6b854f19.chunk.js.map": "/react-chinopandarin/static/js/3.6b854f19.chunk.js.map",
     "index.html": "/react-chinopandarin/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/react-chinopandarin/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.a7c347b5.chunk.css.map": "/react-chinopandarin/static/css/main.a7c347b5.chunk.css.map",
-    "static/js/2.3b2547cb.chunk.js.LICENSE.txt": "/react-chinopandarin/static/js/2.3b2547cb.chunk.js.LICENSE.txt"
+    "static/css/main.c056c7ea.chunk.css.map": "/react-chinopandarin/static/css/main.c056c7ea.chunk.css.map",
+    "static/js/2.5610be53.chunk.js.LICENSE.txt": "/react-chinopandarin/static/js/2.5610be53.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d8ff9572.js",
+    "static/js/runtime-main.d398eeca.js",
     "static/css/2.1a02f21c.chunk.css",
-    "static/js/2.3b2547cb.chunk.js",
-    "static/css/main.a7c347b5.chunk.css",
-    "static/js/main.e1f94e2c.chunk.js"
+    "static/js/2.5610be53.chunk.js",
+    "static/css/main.c056c7ea.chunk.css",
+    "static/js/main.2448ffb1.chunk.js"
   ]
 }
